@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: doordash-selection-models-2022Q1
+Version: 1.0.0
+Summary: Selection ml models
+Author: Chen Dong
+Author-email: chen.dong@doordash.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+License-File: LICENSE
+
+UNKNOWN
+
